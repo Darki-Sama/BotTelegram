@@ -1,4 +1,4 @@
-from pruebabot import *
+from IdBot import *
 import time 
 import telebot
 
